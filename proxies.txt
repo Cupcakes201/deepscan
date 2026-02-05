@@ -1,0 +1,9 @@
+# Add proxies here, one per line
+# Supported formats:
+# http://127.0.0.1:8080
+# socks5://127.0.0.1:9050
+# http://user:pass@1.2.3.4:8080
+
+# Examples (commented out):
+# http://127.0.0.1:8080
+# socks5://127.0.0.1:9050
